@@ -1,0 +1,2 @@
+# AmazonNews
+Amazon News Aggregator
